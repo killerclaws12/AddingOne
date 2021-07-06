@@ -1,0 +1,34 @@
+{
+  "name": "killerclaws",
+  "version": "1.0.0",
+  "description": "> An easy to use adding package",
+  "engines": {
+    "node": ">=7.8.0"
+  },
+  "files": [
+    "index.js",
+    "README.md"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/killerclaws12/AddingOne.git"
+  },
+  "keywords": [
+    "killerclaws",
+    "adding"
+  ],
+  "author": "Killerclaws",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/killerclaws12/AddingOne/issues"
+  },
+  "homepage": "https://github.com/killerclaws12/AddingOne#readme",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "link": "^0.1.5"
+  }
+}
